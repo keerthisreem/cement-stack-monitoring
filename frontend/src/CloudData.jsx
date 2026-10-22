@@ -19,7 +19,7 @@ import {
 } from "lucide-react";
 import "./App.css";
 
-const API = "http://localhost:5000";
+const API = "https://cement-stack-monitoring.onrender.comng.onrender.com";
 
 function getStatus(humidity) {
   const value = Number(humidity);

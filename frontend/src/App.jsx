@@ -36,7 +36,7 @@ import CloudData from "./CloudData";
 import SensorMonitoring from "./SensorMonitoring";
 import "./App.css";
 
-const API = "http://localhost:5000";
+const API = "https://cement-stack-monitoring.onrender.com";
 
 // =====================================================
 // LOGIN PAGE
