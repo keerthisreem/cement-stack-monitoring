@@ -17,9 +17,9 @@ import {
   ShieldAlert,
   Radio,
 } from "lucide-react";
-import "./App.css";
+import "./App.css";htt
 
-const API = "https://cement-stack-monitoring.onrender.comng.onrender.com";
+const API = "https://cement-stack-monitoring.onrender.com";
 
 function getStatus(humidity) {
   const value = Number(humidity);
